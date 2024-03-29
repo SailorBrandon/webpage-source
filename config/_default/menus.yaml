@@ -7,20 +7,23 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
   - name: Publications
-    url: '#featured'
+    url: 'https://scholar.google.com/citations?user=5cn0-VwAAAAJ&hl=en&oi=ao'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
+  - name: Moments
+    url: '#life'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
